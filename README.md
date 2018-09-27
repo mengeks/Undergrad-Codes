@@ -1,2 +1,2 @@
-# Undergrad-Codes
-Part of my codes from undergraduate courses, including projects and insightful assignments.
+# Undergrad Projects
+Part of my projects and insightful assignments from undergraduate courses.
