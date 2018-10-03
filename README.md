@@ -8,4 +8,6 @@ Part of my projects and insightful assignments from undergraduate courses.
 [Financial modelling](https://github.com/mengeks/Undergrad-Codes/tree/master/Financial%20Modelling
 ): Option Pricing using Matlab
 
+[Rossmann Sales Prediction](https://github.com/mengeks/Undergrad-Codes/tree/master/Rossmann%20sales): ARIMA model and Linear model
+
 [A ride share database project](https://github.com/Sumei1009/TT25) (php and SQL)
