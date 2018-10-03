@@ -1,5 +1,5 @@
 # Undergrad Projects
-Part of my projects and insightful assignments from undergraduate courses.
+Selection of my projects and insightful assignments from undergraduate courses.
 
 1. [Data-Driven Optimisation](https://github.com/mengeks/Undergrad-Codes/tree/master/Data-driven%20Optimisation): a. A gender classification using SGD on logistic regression b. Film recommendation using matrix completion technique  c. Image reconstruction
 
