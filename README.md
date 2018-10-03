@@ -10,6 +10,6 @@ Selection of my projects and insightful assignments from undergraduate courses.
 4. [Taxi Fare Prediction](https://github.com/mengeks/Undergrad-Codes/blob/master/Taxi%20Competition%20Report.pdf): Random forest, xgboost
 
 5. [Financial modelling](https://github.com/mengeks/Undergrad-Codes/tree/master/Financial%20Modelling
-): Option Pricing using Matlab
+): Option Pricing using Matlab. Dealing with numerical PDEs
 
-6. [A ride share database project](https://github.com/Sumei1009/TT25) (php and SQL)
+6. [A ride share database project](https://github.com/Sumei1009/TT25): A php and SQL based project
