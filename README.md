@@ -12,4 +12,4 @@ Selection of my projects and insightful assignments from undergraduate courses.
 5. [Financial modelling](https://github.com/mengeks/Undergrad-Codes/tree/master/Financial%20Modelling
 ): Option Pricing using Matlab. Dealing with numerical PDEs
 
-6. [A ride share database project](https://github.com/Sumei1009/TT25): A php and SQL based project
+6. [A ride share database project](https://github.com/Sumei1009/TT25): A database project based on php and SQL
