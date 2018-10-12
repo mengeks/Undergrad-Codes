@@ -5,7 +5,7 @@ Selection of my projects and insightful assignments from undergraduate courses.
 
 2. [Rossmann Sales Prediction](https://github.com/mengeks/Undergrad-Codes/tree/master/Rossmann%20sales): ARIMA model and Linear model
 
-3. [Dynamic Mean-Variance Portfolio Optimisation](https://github.com/mengeks/Undergrad-Codes/tree/master/Dynamic%20Mean-Variance%20Optimisation): Portfolio Optimisation, HJB equation, Feynman-Kac theorem
+3. [Dynamic Mean-Variance Portfolio Optimisation](https://github.com/mengeks/Undergrad-Codes/tree/master/Dynamic%20Mean-Variance%20Optimisation) (Undergraduate honors project): Portfolio Optimisation, HJB equation, Feynman-Kac theorem
 
 4. [Taxi Fare Prediction](https://github.com/mengeks/Undergrad-Codes/blob/master/Taxi%20Competition%20Report.pdf): Random forest, xgboost
 
