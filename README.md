@@ -13,12 +13,6 @@ Selection of my projects and insightful assignments from undergraduate courses.
 ): Option Pricing using Matlab. Dealing with numerical PDEs
 
 6. C++ Data Structure Programming:
-  [Binary Search Tree](https://github.com/UCSD-CSE-100/repo_st_1004_10159_25457_pa1_bst_in_c_-2); 
-  
-  [Dictionary Trees and Tries](https://github.com/UCSD-CSE-100/repo_st_1004_10449_25452_pa2_autocomplete_and_dictionar);
-  
-  [Huffman Tree](https://github.com/UCSD-CSE-100/repo_st_1004_10934_25457_pa3_huffman);
-  
-  [Basic Graph Theory](https://github.com/UCSD-CSE-100/repo_st_1004_11218_25457_pa4_6_degrees);
+  [Binary Search Tree](https://github.com/UCSD-CSE-100/repo_st_1004_10159_25457_pa1_bst_in_c_-2); [Dictionary Trees and Tries](https://github.com/UCSD-CSE-100/repo_st_1004_10449_25452_pa2_autocomplete_and_dictionar); [Huffman Tree](https://github.com/UCSD-CSE-100/repo_st_1004_10934_25457_pa3_huffman); [Basic Graph Theory](https://github.com/UCSD-CSE-100/repo_st_1004_11218_25457_pa4_6_degrees);
 
 7. [A ride share database project](https://github.com/Sumei1009/TT25): A database project based on php and SQL
